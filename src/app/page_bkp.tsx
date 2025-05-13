@@ -69,7 +69,7 @@ const CORES_TIMES_CONFIG = [
   { id: "time_verde", nome: "Verde", corHex: "bg-green-600", corTexto: "text-green-100", statusJogador: 'em_time_verde' as JogadorGlobal['status'] },
   { id: "time_vermelho", nome: "Vermelho", corHex: "bg-red-600", corTexto: "text-red-100", statusJogador: 'em_time_vermelho' as JogadorGlobal['status'] },
   { id: "time_cinza", nome: "Cinza", corHex: "bg-gray-600", corTexto: "text-gray-100", statusJogador: 'em_time_cinza' as JogadorGlobal['status'] },
-  { id: "time_amarelo", nome: "Amarelo", corHex: "bg-yellow-500", corTexto: "text-yellow-900", statusJogador: 'em_time_amarelo' as JogadorGlobal['status'] },
+  { id: "time_amarelo", nome: "Amarelo", corHex: "bg-yellow-600", corTexto: "text-yellow-100", statusJogador: 'em_time_amarelo' as JogadorGlobal['status'] },
 ];
 
 const ADMIN_CODE = "raphaeljogador";
