@@ -46,7 +46,7 @@ const jogadoresBaseIniciais: Jogador[] = [
   { id: 18, nome: 'Samir', nota: 5 },
   { id: 19, nome: 'Boy', nota: 5 },
   { id: 20, nome: 'Magaiver', nota: 4 },
-  { id: 21, nome: 'Caio', nota: 3 },
+  { id: 21, nome: 'Pedrao', nota: 1 },
   { id: 22, nome: 'Gu Borges', nota: 2 },
   { id: 23, nome: 'Zé', nota: 4 },
   { id: 24, nome: 'Rapha', nota: 1 },
