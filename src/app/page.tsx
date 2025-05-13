@@ -28,7 +28,7 @@ interface JogadorGlobal extends Jogador {
 const jogadoresBaseIniciais: Jogador[] = [
   { id: 1, nome: 'Dente', nota: 2 },
   { id: 2, nome: 'Matsuura', nota: 4 },
-  { id: 3, nome: 'Russo', nota: 3 },
+  { id: 3, nome: 'Russo', nota: 2 },
   { id: 4, nome: 'Jordan', nota: 2 },
   { id: 5, nome: 'Thiago', nota: 5 },
   { id: 6, nome: 'Jubao', nota: 3 },
@@ -39,7 +39,7 @@ const jogadoresBaseIniciais: Jogador[] = [
   { id: 11, nome: 'Jonas', nota: 3 },
   { id: 12, nome: 'Leo', nota: 4 },
   { id: 13, nome: 'Fuinha', nota: 4 },
-  { id: 14, nome: 'Abel', nota: 4 },
+  { id: 14, nome: 'Abel', nota: 3 },
   { id: 15, nome: 'Vitor', nota: 5 },
   { id: 16, nome: 'Adriano', nota: 3 },
   { id: 17, nome: 'Poneis', nota: 3 },
